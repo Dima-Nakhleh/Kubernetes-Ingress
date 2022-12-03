@@ -30,12 +30,12 @@ Both apps were dockerized and published on dockerhub :
 
 [![https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/get%20po3.GIF](https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/get%20po3.GIF "https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/get%20po3.GIF")](https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/get%20po3.GIF "https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/get%20po3.GIF")
 
-# **You can now access the apps from you browser at :** 
-# - http://localhost/ynet
+## **You can now access the apps from you browser at :** 
+##- http://localhost/ynet
 
 [![https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/ynet.GIF](https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/ynet.GIF "https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/ynet.GIF")](https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/ynet.GIF "https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/ynet.GIF")
 
-# - http://localhost/bitcoin
+##- http://localhost/bitcoin
 
 [![https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/bitcoin.GIF](https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/bitcoin.GIF "https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/bitcoin.GIF")](https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/bitcoin.GIF "https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/bitcoin.GIF")
 
