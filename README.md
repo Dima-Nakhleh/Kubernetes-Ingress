@@ -1,5 +1,4 @@
 # Kubernetes-Ingress
-# Kubernetes-Ingress
 ## **The Purpose Of The Apps:**
 this repository contains two apps:
 1. Ynet-App: This app reads the news from the Ynet new service: http://www.ynet.co.il/Integration/StoryRss2.xml .
