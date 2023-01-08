@@ -5,11 +5,12 @@ metadata:
   name: bingress
   annotations:
     nginx.ingress.kubernetes.io/rewrite-target: /
-
+#routing rules
 spec:
   rules:
     - http:
         paths:
+        # incoming request forward it to the right service
           - path: /bitcoin
             pathType: Prefix
             backend:
